@@ -1,4 +1,4 @@
-# ServicesDemo
+# Services Demo
 Demo application to demonstrate how to
 - Create a Basic services
 - Create a Bound Services
